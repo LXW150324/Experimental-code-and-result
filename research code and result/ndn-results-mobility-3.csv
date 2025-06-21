@@ -1,0 +1,7 @@
+Metric,Value
+SubscriberMobilitySpeed,3
+CommunicationRange,250
+AverageNotificationDelay,0.00376655
+UnicastNotificationDelay,0.00282413
+InterestNotificationDelay,0.00374622
+BroadcastNotificationDelay,0.00472931

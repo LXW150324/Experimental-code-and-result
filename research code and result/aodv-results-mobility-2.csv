@@ -1,0 +1,12 @@
+Metric,Value
+MobilitySpeed,2
+CommunicationRange,250
+AverageNotificationDelay,0.056454
+PublisherNotificationDelay,0.00360123 
+SubscriberNotificationDelay,0.109307
+BroadcastNotificationDelay,0
+AverageHopCount,1
+MessageSuccessRate,100
+MessagesSent,358
+MessagesReceived,358
+OutOfRangeFailures,0
